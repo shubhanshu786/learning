@@ -17,9 +17,22 @@ Here is the complete flow:
 
 5) Use dense leyers to build classification model.
 
+## Results
+### Model Accuracy
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Training%20Accuracy.png "Model Accuracy")
+### Model Loss
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Training%20Loss.png "Model Loss")
+### Validation Accuracy
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Validation%20Accuracy.png "Validation Accuracy")
+### Validation Loss
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Validation%20Loss.png "Validation Loss")
+
+Blue : CNN Model with 64 features
+
+Red : CNN Model with 128 features
 ## Note
 1) Selection of number features (**128** in my case) and number of different CNN models is selected based on best results.
 
-2) Blue color line in images is with 64 CNN features, while orange one is with 128. Graph smoothness represent, how powerful CNN models are, with text data classification.
+2) Graph smoothness represent, how powerful CNN models are, with text data classification.
 
 For any query, and clearance drop me mail at **dec31.shubh@gmail.com**
