@@ -17,9 +17,9 @@ from time import time
 
 
 #data can be downloaded from https://www.kaggle.com/alaeddineayadi/obfuscated-multiclassification
-with open('./xtrain_obfuscated.txt') as fp:
+with open('./data/xtrain_obfuscated.txt') as fp:
     data = fp.read().split('\n')
-with open('./ytrain.txt') as fp:
+with open('./data/ytrain.txt') as fp:
     label = fp.read().split('\n')
 
 

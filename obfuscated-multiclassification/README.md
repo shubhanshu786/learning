@@ -19,13 +19,13 @@ Here is the complete flow:
 
 ## Results
 ### Model Accuracy
-![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Training%20Accuracy.png "Model Accuracy")
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/results/Training%20Accuracy.png "Model Accuracy")
 ### Model Loss
-![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Training%20Loss.png "Model Loss")
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/results/Training%20Loss.png "Model Loss")
 ### Validation Accuracy
-![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Validation%20Accuracy.png "Validation Accuracy")
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/results/Validation%20Accuracy.png "Validation Accuracy")
 ### Validation Loss
-![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/Validation%20Loss.png "Validation Loss")
+![](https://github.com/shubhanshu786/learning/blob/master/obfuscated-multiclassification/results/Validation%20Loss.png "Validation Loss")
 
 Blue : CNN Model with 64 features
 
