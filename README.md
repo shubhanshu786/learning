@@ -1,2 +1,2 @@
 # learning
-Some of Machine Learning work
+Some of Machine Learning work.
